@@ -12,6 +12,9 @@ namespace AddressBookTestt1
     {
         RestClient client;
 
+        /// <summary>
+        /// Sets up.
+        /// </summary>
         [TestInitialize]
         public void SetUp()
         {
