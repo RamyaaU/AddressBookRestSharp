@@ -9,7 +9,7 @@
       "city": "Mumbai",
       "state": "Maharashtra",
       "zip": "345654",
-      "email":"pn@gmail.com"
+      "email": "pn@gmail.com"
     },
     {
       "id": 2,
@@ -20,7 +20,7 @@
       "city": "Bangalore",
       "state": "Karnataka",
       "zip": "354676",
-      "email":"dak@gmail.com"
+      "email": "dak@gmail.com"
     },
     {
       "id": 3,
@@ -31,7 +31,7 @@
       "city": "Chennai",
       "state": "Tamil Nadu",
       "zip": "998765",
-      "email":"hema@gmail.com"
+      "email": "hema@gmail.com"
     },
     {
       "id": 4,
@@ -42,7 +42,40 @@
       "city": "Kolkata",
       "state": "West Bengal",
       "zip": "115654",
-      "email":"raj@gmail.com"
+      "email": "raj@gmail.com"
+    },
+    {
+      "firstname": "Ramya",
+      "lastname": "U",
+      "phoneNo": "9577456345",
+      "address": "Feroz Shah Kotla",
+      "city": "New Delhi",
+      "state": "New Delhi",
+      "zip": "547677",
+      "email": "vs@gmail.com",
+      "id": 5
+    },
+    {
+      "firstname": "Ankitha",
+      "lastname": "H",
+      "phoneNo": "9756723456",
+      "address": "Chinnaswamy",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zip": "435627",
+      "email": "yc@gmail.com",
+      "id": 6
+    },
+    {
+      "firstname": "Yashu",
+      "lastname": "V",
+      "phoneNo": "9954564345",
+      "address": "Mohali",
+      "city": "Mohali",
+      "state": "Punjab",
+      "zip": "113425",
+      "email": "klr@gmail.com",
+      "id": 7
     }
   ]
 }
