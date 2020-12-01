@@ -9,7 +9,7 @@
       "city": "Mumbai",
       "state": "Maharashtra",
       "zip": "345654",
-      "email":"pn@gmail.com"
+      "email": "pn@gmail.com"
     },
     {
       "id": 2,
@@ -20,7 +20,7 @@
       "city": "Bangalore",
       "state": "Karnataka",
       "zip": "354676",
-      "email":"dak@gmail.com"
+      "email": "dak@gmail.com"
     },
     {
       "id": 3,
@@ -31,7 +31,7 @@
       "city": "Chennai",
       "state": "Tamil Nadu",
       "zip": "998765",
-      "email":"hema@gmail.com"
+      "email": "hema@gmail.com"
     },
     {
       "id": 4,
@@ -42,7 +42,7 @@
       "city": "Kolkata",
       "state": "West Bengal",
       "zip": "115654",
-      "email":"raj@gmail.com"
+      "email": "raj@gmail.com"
     }
   ]
 }
